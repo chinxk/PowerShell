@@ -1,0 +1,2 @@
+PS C:\Users\qin\Documents\GitHub\PowerShell> PowerShell.exe -ExecutionPolicy Byp
+ass -File .\helloworld.ps1
